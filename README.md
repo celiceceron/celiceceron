@@ -1,4 +1,4 @@
-Hi! I'm Celice Ceron I work with Front-End development and, I study at Codecademy.
+## Hi! I'm Celice Ceron I work with Front-End development and, I study at Codecademy.
 
 
 <div>
@@ -15,7 +15,7 @@ Hi! I'm Celice Ceron I work with Front-End development and, I study at Codecadem
   <img align="center" alt="Celice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+## Let's get connected:
 
 <div> 
     <a href="https://celicewebdeveloper.netlify.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
