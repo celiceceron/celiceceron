@@ -7,7 +7,7 @@
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiceceron&layout=compact&langs_count=16&theme=dark"/>
 </div>
  
-### Technologies and tools I use:
+### 🔧 Technologies and tools I use:
  <div>
   <img align="center" alt="Celice-Js" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="Celice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div> <br>
 
-### Let's get connected:
+### 💙 Let's get connected:
 <div> 
     <a href="https://celicewebdeveloper.netlify.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/celice-ceron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
