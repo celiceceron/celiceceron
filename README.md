@@ -1,6 +1,12 @@
 Hi! I'm Celice Ceron I work with Front-End development and, I study at Codecademy.
 
 
+<div>
+ <a href="https://github.com/celiceceron">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=celiceceron&show_icons=true&theme=dark&include_all_commits=true"/>
+  
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Celice-Js" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
