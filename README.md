@@ -21,3 +21,5 @@
   <a href="https://www.linkedin.com/in/celice-ceron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/celiceceron" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/celiceceron/celiceceron/blob/output/github-contribution-grid-snake.svg)
